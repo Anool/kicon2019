@@ -11,3 +11,8 @@ https://sourceforge.net/u/easyw/profile/
 https://sourceforge.net/projects/kicadstepup/
 
 https://github.com/KiCad/kicad-packages3D
+
+https://github.com/KiCad/kicad-packages3D/blob/master/Vrml_materials_doc/KiCad_3D-Viewer_component-materials-reference-list_MarioLuzeiro.pdf
+
+https://github.com/KiCad/kicad-packages3D/tree/master/Vrml_materials_doc
+
