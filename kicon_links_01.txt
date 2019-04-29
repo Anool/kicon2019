@@ -16,3 +16,4 @@ https://github.com/KiCad/kicad-packages3D/blob/master/Vrml_materials_doc/KiCad_3
 
 https://github.com/KiCad/kicad-packages3D/tree/master/Vrml_materials_doc
 
+http://www.resistorguide.com/resistor-sizes-and-packages/
